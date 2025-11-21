@@ -104,7 +104,7 @@ KMCloud Solutions Inc. is seeking qualified vendors to design, deploy, and maint
 | Phase | Activity | Duration | Target Completion |
 |-------|----------|----------|-------------------|
 | RFP Process | Proposal submission & evaluation | 4 weeks | December 20, 2025 |
-| Planning | Kickoff meeting & site survey | 2-3 weeks | January 17, 2026 |
+| Planning | Kickoff meeting & site survey | 2-3 weeks | January 27, 2026 |
 | Procurement | Equipment ordering & delivery | 2-3 weeks | February 7, 2026 |
 | Deployment | Installation & configuration | 4-6 weeks | March 21, 2026 |
 | Testing | Performance validation & optimization | 2 weeks | April 4, 2026 |
@@ -1106,7 +1106,7 @@ The detailed floor plans for Building A and Building B are maintained internally
 and can be provided to shortlisted vendors upon request. These diagrams include
 workspace layouts, MDF/IDF locations, and recommended AP mounting areas.
 
-**Floor plans are available upon request for vendors conducting site surveys.**
+**Floor plans will be provided to shortlisted vendors during the site survey phase. Contact Kristine for early access with signed NDA.**
 
 To request floor plans:
 - Email kristine.bagsican@kmcloud.com with subject "Floor Plan Request - [Vendor Name]"
