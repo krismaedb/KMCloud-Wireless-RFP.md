@@ -833,10 +833,10 @@ Vendors must ensure the following are included in their proposal:
 
 **Evaluation Committee:**
 - Kristine Bagsican, IT Infrastructure Manager (Lead)
-- CTO (To Be Assigned)
-- IT Security Manager (To Be Assigned)
-- Network Administrator (To Be Assigned)
-- Finance Manager (To Be Assigned, cost evaluation)
+- KMCloud Chief Technology Officer
+- KMCloud IT Security Manager
+- KMCloud Network Administrator
+- KMCloud Finance Manager
 
 **Evaluation Process:**
 1. **Initial Screening:** Verify completeness and compliance with RFP requirements
@@ -1128,7 +1128,7 @@ execution of a Non-Disclosure Agreement (NDA). The diagram includes the existing
 Cisco switching environment, Fortinet security perimeter, and AWS cloud 
 integration points.
 
-**Network diagram available upon request after NDA signing.**
+**Network diagrams will be provided to shortlisted vendors after NDA signing. Contact Kristine for early access.**
 
 **Current Infrastructure Summary:**
 - **Core Switching:** 2x Cisco Catalyst 9300 (stacked)
