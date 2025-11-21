@@ -1,9 +1,9 @@
 # REQUEST FOR PROPOSAL (RFP)
 ## Wireless Infrastructure Deployment
 
-**Document Number:** RFP-KMC-2024-001  
-**Issue Date:** November 20, 2024  
-**Submission Deadline:** December 15, 2024, 5:00 PM CST  
+**Document Number:** RFP-KMC-2025-001  
+**Issue Date:** November 20, 2025  
+**Submission Deadline:** December 15, 2025, 5:00 PM CST  
 **Issued By:** KMCloud Solutions Inc.
 
 ---
@@ -59,7 +59,7 @@ KMCloud's internal operations are powered by AWS cloud platform:
 
 ### 1.3 Need for Wireless Infrastructure Upgrade
 
-KMCloud's current wireless infrastructure is outdated and no longer meets the demands of our growing operations. The existing 802.11ac network deployed in 2018 faces critical limitations:
+KMCloud's current wireless infrastructure is outdated and no longer meets the demands of our growing operations. The existing 802.11ac network deployed in 2021 faces critical limitations:
 
 **Current Challenges:**
 - **Insufficient Coverage:** Dead zones in conference rooms, break areas, and building corners result in frequent connectivity drops
@@ -67,7 +67,7 @@ KMCloud's current wireless infrastructure is outdated and no longer meets the de
 - **Performance Bottlenecks:** Bandwidth congestion during peak hours impacts video conferencing, cloud application performance, and large file transfers to AWS S3
 - **Security Vulnerabilities:** Lack of WPA3 support and outdated security protocols expose our network to potential breaches
 - **Management Complexity:** Standalone access points with no centralized management system increase administrative overhead
-- **Business Growth:** Planned hiring of 40 additional employees in Q1 2025 will further strain the existing infrastructure
+- **Business Growth:** Planned hiring of 40 additional employees in Q1 2026 will further strain the existing infrastructure
 
 **Business Impact:**
 - Reduced employee productivity due to unreliable connectivity
@@ -103,13 +103,13 @@ KMCloud Solutions Inc. is seeking qualified vendors to design, deploy, and maint
 
 | Phase | Activity | Duration | Target Completion |
 |-------|----------|----------|-------------------|
-| RFP Process | Proposal submission & evaluation | 4 weeks | December 20, 2024 |
-| Planning | Kickoff meeting & site survey | 2-3 weeks | January 17, 2025 |
-| Procurement | Equipment ordering & delivery | 2-3 weeks | February 7, 2025 |
-| Deployment | Installation & configuration | 4-6 weeks | March 21, 2025 |
-| Testing | Performance validation & optimization | 2 weeks | April 4, 2025 |
-| Training | Staff training & documentation handover | 1 week | April 11, 2025 |
-| Go-Live | Full production deployment | - | April 30, 2025 |
+| RFP Process | Proposal submission & evaluation | 4 weeks | December 20, 2025 |
+| Planning | Kickoff meeting & site survey | 2-3 weeks | January 17, 2026 |
+| Procurement | Equipment ordering & delivery | 2-3 weeks | February 7, 2026 |
+| Deployment | Installation & configuration | 4-6 weeks | March 21, 2026 |
+| Testing | Performance validation & optimization | 2 weeks | April 4, 2026 |
+| Training | Staff training & documentation handover | 1 week | April 11, 2026 |
+| Go-Live | Full production deployment | - | April 30, 2026 |
 
 ---
 
@@ -531,7 +531,7 @@ Vendors must demonstrate expertise in:
 ### 5.3 Licensing and Insurance
 
 **Required Licenses:**
-- Valid business license in [your jurisdiction]
+- Valid business license in the City of Winnipeg
 - Low voltage contractor license (if applicable)
 - Structured cabling installer certification
 
@@ -652,7 +652,7 @@ KMCloud will evaluate proposals based on the following weighted criteria:
 
 **Project Schedule Evaluation:**
 - **Realistic Timeline:**
-  - Achievable milestones aligned with KMCloud's target completion (April 30, 2025)
+  - Achievable milestones aligned with KMCloud's target completion (April 30, 2026)
   - Adequate time allocation for each phase (survey, installation, testing)
   - Buffer for contingencies and unexpected delays
   
@@ -780,17 +780,17 @@ KMCloud will evaluate proposals based on the following weighted criteria:
   - Example: `KMCloud_RFP_AcmeNetworks_TechnicalProposal.pdf`
 
 **Submission Method:**
-- **Email Submission (Preferred):** Send to paul.bagsican@kmcloud.com
+- **Email Submission (Preferred):** Send to kristine.bagsican@kmcloud.com
   - Subject Line: "RFP Submission - Wireless Infrastructure - [Vendor Name]"
   - Maximum email attachment size: 25 MB (use file sharing link if larger)
   
 - **Physical Submission (Optional):**
-  - Mail to: KMCloud Solutions Inc., Attn: Paul Bagsican, IT Infrastructure Manager
-  - Address: [Insert your office address]
+  - Mail to: KMCloud Solutions Inc., Attn: Kristine Bagsican, IT Infrastructure Manager
+  - Address: 360 Portage Avenue, Winnipeg, Manitoba R3C 0G8
   - Include USB drive with digital copy
 
 **Deadline:**
-- **Submission Deadline:** December 15, 2024, 5:00 PM Central Standard Time (CST)
+- **Submission Deadline:** December 15, 2025, 5:00 PM Central Standard Time (CST)
 - Late submissions will not be accepted unless prior arrangement is made
 
 **Proposal Validity:**
@@ -821,22 +821,22 @@ Vendors must ensure the following are included in their proposal:
 
 | Activity | Date |
 |----------|------|
-| RFP Issued | November 20, 2024 |
-| Pre-Proposal Questions Due | November 29, 2024 |
-| Answers to Questions Posted | December 2, 2024 |
-| Proposal Submission Deadline | December 15, 2024, 5:00 PM CST |
-| Proposal Evaluation | December 16-18, 2024 |
-| Vendor Interviews/Demos (if required) | December 19-20, 2024 |
-| Vendor Selection and Notification | December 20, 2024 |
-| Contract Negotiation | December 23, 2024 - January 3, 2025 |
-| Project Kickoff | January 6, 2025 |
+| RFP Issued | November 20, 2025 |
+| Pre-Proposal Questions Due | November 29, 2025 |
+| Answers to Questions Posted | December 2, 2025 |
+| Proposal Submission Deadline | December 15, 2025, 5:00 PM CST |
+| Proposal Evaluation | December 16-18, 2025 |
+| Vendor Interviews/Demos (if required) | December 19-20, 2025 |
+| Vendor Selection and Notification | December 20, 2025 |
+| Contract Negotiation | December 23, 2025 - January 3, 2026 |
+| Project Kickoff | January 6, 2026 |
 
 **Evaluation Committee:**
-- Paul Bagsican, IT Infrastructure Manager (Lead)
-- [Name], CTO
-- [Name], IT Security Manager
-- [Name], Network Administrator
-- [Name], Finance Manager (for cost evaluation)
+- Kristine Bagsican, IT Infrastructure Manager (Lead)
+- CTO (To Be Assigned)
+- IT Security Manager (To Be Assigned)
+- Network Administrator (To Be Assigned)
+- Finance Manager (To Be Assigned, cost evaluation)
 
 **Evaluation Process:**
 1. **Initial Screening:** Verify completeness and compliance with RFP requirements
@@ -854,23 +854,23 @@ Vendors must ensure the following are included in their proposal:
 - Live demonstration of proposed wireless management platform (preferred)
 
 **Notification:**
-- All vendors will be notified of the selection outcome by December 20, 2024
+- All vendors will be notified of the selection outcome by December 20, 2025
 - Winning vendor will receive award notification and contract draft
 - Unsuccessful vendors may request debrief to understand decision rationale
 
 ### 7.5 Questions and Clarifications
 
 **Pre-Proposal Questions:**
-- Vendors may submit questions regarding the RFP by **November 29, 2024**
-- Submit questions via email to paul.bagsican@kmcloud.com
+- Vendors may submit questions regarding the RFP by **November 29, 2025**
+- Submit questions via email to kristine.bagsican@kmcloud.com
 - Subject Line: "RFP Question - Wireless Infrastructure - [Vendor Name]"
-- KMCloud will compile and respond to all questions by **December 2, 2024**
+- KMCloud will compile and respond to all questions by **December 2, 2025**
 - Questions and answers will be shared with all registered vendors to ensure fairness
 
 **Site Visit (Optional):**
 - Vendors are encouraged to schedule a site visit to assess the office buildings
-- Contact Paul Bagsican at paul.bagsican@kmcloud.com to arrange a visit
-- Site visits must be completed by **December 10, 2024**
+- Contact Kristine Bagsican at kristine.bagsican@kmcloud.com to arrange a visit
+- Site visits must be completed by **December 10, 2025**
 - NDA may be required for site visit access
 
 **RFP Amendments:**
@@ -955,7 +955,7 @@ Vendors must ensure the following are included in their proposal:
 **Dispute Resolution:**
 - Good-faith negotiation is the first step for resolving disputes
 - Mediation or arbitration may be required before litigation
-- Governing law: [Your jurisdiction]
+- Governing law: Winnipeg, Manitoba, Canada
 
 ### 8.4 Performance Standards and SLAs
 
@@ -1102,7 +1102,9 @@ Monday - Friday: 9:00 AM - 5:00 PM CST
 
 ### APPENDIX B: BUILDING FLOOR PLANS
 
-*[Note: In your actual RFP, you would include floor plan diagrams here. For this GitHub markdown document, you can indicate that floor plans are available upon request.]*
+The detailed floor plans for Building A and Building B are maintained internally
+and can be provided to shortlisted vendors upon request. These diagrams include
+workspace layouts, MDF/IDF locations, and recommended AP mounting areas.
 
 **Floor plans are available upon request for vendors conducting site surveys.**
 
@@ -1121,7 +1123,10 @@ To request floor plans:
 
 ### APPENDIX C: EXISTING NETWORK INFRASTRUCTURE DIAGRAM
 
-*[Note: A high-level network diagram will be provided upon vendor shortlisting. The final diagram will include the existing Cisco switching environment, Fortinet security perimeter, and AWS cloud integration points.]*
+A high-level network diagram will be provided to vendors upon shortlisting and 
+execution of a Non-Disclosure Agreement (NDA). The diagram includes the existing 
+Cisco switching environment, Fortinet security perimeter, and AWS cloud 
+integration points.
 
 **Network diagram available upon request after NDA signing.**
 
@@ -1138,7 +1143,7 @@ To request floor plans:
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0 | November 20, 2024 | Kristine Bagsican | Initial RFP release |
+| 1.0 | November 20, 2025 | Kristine Bagsican | Initial RFP release |
 
 ---
 
